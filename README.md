@@ -1,4 +1,4 @@
-<img align="center" src="public/projex_white.svg" width="400" height="400"/>
+<!--<img align="center" src="public/projex_white.svg" width="400" height="400"/>-->
 
 # 🗃 ProjeX - Project Manager Tool
 
