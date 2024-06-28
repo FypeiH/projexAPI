@@ -45,10 +45,10 @@ ProjeX is an open-source application designed to help teams plan, track, and col
 
 ## 🎯 Milestones
 ### User Authentication
-- Register user
-- Login
+- ~~Register user~~
+- ~~Login~~
 - Password reset
-- Token-based authentication (JWT)
+- ~~Token-based authentication (JWT)~~
 - User roles and permissions
 
 ### Project Management
