@@ -29,7 +29,7 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="$targetentrypoint$">
+      EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements
         DisplayName="ProjexAPI.Package"
         Description="ProjexAPI.Package"
